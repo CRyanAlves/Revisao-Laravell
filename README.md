@@ -1,3 +1,16 @@
+## composer create-project laravel/laravel revisao (instala o laravel)
+
+## php  artisan serve (roda o código)
+
+## php  artisan make:controller ProductController --resource (--resource -> se quiser já estruturado )  
+
+## php artisan make:model Produto -m (cria a pasta model e migration)
+
+## php artisan migrate (faz a migration)
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
